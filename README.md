@@ -61,5 +61,5 @@ The performance of each model is compared based on cross-validation scores.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/house-price-prediction
+   git clone https://github.com/saiKrishna-02/house-price-prediction
    cd house-price-prediction
